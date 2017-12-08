@@ -1,6 +1,10 @@
 ## References
   http://www.oodesign.com/ <br>
-  https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm
+  https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm <br>
+  https://www.codeproject.com/Articles/98598/How-I-explained-Design-Patterns-to-my-wife-Part <br>
+  https://code.tutsplus.com/articles/a-beginners-guide-to-design-patterns--net-12752 <br>
+  https://app.pluralsight.com/library/courses/python-design-patterns/table-of-contents <br>
+  https://app.pluralsight.com/library/courses/python-design-patterns-building-more/table-of-contents <br>
   
   
 

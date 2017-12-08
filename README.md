@@ -1,5 +1,5 @@
 ## References
-  http://www.oodesign.com/
+  http://www.oodesign.com/ <br>
   https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm
   
   
